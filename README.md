@@ -66,7 +66,7 @@ base_model.label("./context_images", extension=".jpeg")
 
 ## License
 
-This model is licensed under an [Apache 2.0](LICENSE), [see original model implementation license](https://github.com/google-research/scenic/blob/main/LICENSE) (The license is for all scenic projects), and the corresponding [HuggingFace Transformers documentation](https://huggingface.co/docs/transformers/main/en/model_doc/owlv2).
+This model is licensed under an [Apache 2.0](LICENSE) ([see original model implementation license](https://github.com/google-research/scenic/blob/main/LICENSE) (The license is for all scenic projects), and the corresponding [HuggingFace Transformers documentation](https://huggingface.co/docs/transformers/main/en/model_doc/owlv2)).
 
 ## 🏆 Contributing
 
